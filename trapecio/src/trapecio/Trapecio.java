@@ -82,9 +82,9 @@ public class Trapecio {
 
     public static void main(String[] args) {
 
-        int altura;
-        int ancho;
-        Scanner sc = new Scanner(System.in);
+//       int altura;
+//        int ancho;
+//        Scanner sc = new Scanner(System.in);
 
 //        System.out.println("-------------------------- Trapecio Java ---------------------------");
 //        System.out.println("\nPor favor Ingresar la altura del trapecio:");
